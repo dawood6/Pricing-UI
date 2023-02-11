@@ -1,9 +1,9 @@
 import { Container, Text, Box, Button } from "@chakra-ui/react";
 import Image from "next/image";
-import CheckMarkIcon from '../public/CheckMarkIcon.png'
-import AdvantagesIcon from '../public/advantagesIcon.png'
-import AdvantagesIcon1 from '../public/advantagesIcon1.png'
-import AdvantagesIcon2 from '../public/advantagesIcon2.png'
+import CheckMarkIcon from '../Images/checkMarkIcon.png'
+import AdvantagesIcon from '../Images/advantagesIcon.png'
+import AdvantagesIcon1 from '../Images/advantagesIcon1.png'
+import AdvantagesIcon2 from '../Images/advantagesIcon2.png'
 
 export default function Home() {
   return (
